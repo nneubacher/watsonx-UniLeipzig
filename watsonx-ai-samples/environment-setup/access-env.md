@@ -1,6 +1,6 @@
 # Access Class Environment
 
-**Note:** Follow these instructions for accessing your instance of the class environment in order to successfully complete the Agentic AI Bootcamp. 
+**Note:** Follow these instructions for accessing your instance of the class environment. 
 
 When you are invited to the class environment, you'll receive an email. This message is from IBM Technology Zone <noreply@techzone.ibm.com> inviting you to join the account where your class environment is located.
 
