@@ -1,1 +1,3 @@
 venv
+watsonx-ai-samples/Use watsonx to tune IBM 'granite-13b-instruct-v2' model with cars4u document.ipynb
+.env
